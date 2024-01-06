@@ -15,14 +15,20 @@
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
+
+
+  
   --cd-primary-color:                    #c6bee6;
   --cd-primary-text-color:               #fff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color:                  #e4d5f5;
-  --cd-secondary-text-color:             #fff;
+  --cd-secondary-color: url('starbg.png') center center no-repeat;
+  --cd-secondary-text-color: #fff;
+  /* Additional properties */
+  --cd-secondary-background-size: cover;
+  --cd-secondary-opacity: 0.8; /* Adjust opacity if needed */
 
   /* ============================================================= */
   /* Backgrounds
