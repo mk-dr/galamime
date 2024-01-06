@@ -24,7 +24,7 @@
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: url('starbg.png') center center no-repeat;
+  --cd-secondary-color: url('styles/starbg.png') center center no-repeat;
   --cd-secondary-text-color: #fff;
   /* Additional properties */
   --cd-secondary-background-size: cover;
